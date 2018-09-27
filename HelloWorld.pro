@@ -9,4 +9,4 @@ HEADERS += \
     mainwidget.h \
     thankwidget.h
 
-hello
+hello again
