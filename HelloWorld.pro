@@ -10,3 +10,4 @@ HEADERS += \
     thankwidget.h
 
 hello again
+Hussein
