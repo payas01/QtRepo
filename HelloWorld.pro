@@ -8,4 +8,5 @@ SOURCES += \
 HEADERS += \
     mainwidget.h \
     thankwidget.h
-iasdguidgui
+
+hello
